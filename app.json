@@ -3,10 +3,10 @@
     "description": "Directly upload files to Cloud",
     "repository": "https://github.com/Mrigank11/embetacloud",
     "env": {
-        "GOOGLE_CLIENT_ID": {
+        "GOOGLE_CLIENT_ID": {834691392771-dupf0kjcq6h40d78j794c8b8aqfv0b6i.apps.googleusercontent.com
             "description": "Google Project's Client ID"
         },
-        "GOOGLE_CLIENT_SECRET": {
+        "GOOGLE_CLIENT_SECRET": {798SJeZWugEvEcMJgrOOjDYS
             "description": "Google Project's Client Secret"
         },
         "GOOGLE_REDIRECT_URL": {
